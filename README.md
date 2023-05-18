@@ -1,2 +1,2 @@
 # Convex-Optimization
-Assignments for my Convex Optimisation course
+Assignments for the course Convex Optimisation
